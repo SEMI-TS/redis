@@ -1,4 +1,4 @@
-##Semi-TS Rhea Cross Complie Options
+## Semi-TS Rhea Cross Complie Options
 * 해당 저장소는 redis 메인 저장소를 Fork 한 저장소 입니다.
 * 옵션 설명을 위한 내용만 아래에 표시 해놓았으니 arm cpu에서 사용 할 경우 아래 처럼 사용 하세요.
 ```
